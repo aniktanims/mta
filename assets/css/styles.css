@@ -72,6 +72,16 @@
 /*========== Button Dark/Light ==========*/
 
 /*==================== BASE ====================*/
+.comingsoon {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  font-weight: var(--font-semi-bold);
+  color: #fff;
+  position: fixed;
+  width: 100%;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
