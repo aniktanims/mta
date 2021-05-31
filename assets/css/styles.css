@@ -790,6 +790,7 @@ __nav__toggle {
 .footer__title {
   font-size: var(--h1-font-size);
   margin-bottom: var(--mb-0-25);
+  margin-top: var(--mb-2);
 }
 
 .footer__subtitle {
